@@ -1,0 +1,14 @@
+.header {
+	font-family: "Lucida Grande";
+}
+
+.col-md-6 {
+	font-size: 11px;
+}
+.specifics {
+	text-align: left;
+}
+.col-md-4 {
+	text-align: center;
+	float: right;
+}
